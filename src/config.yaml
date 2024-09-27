@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: JulianCast Blog
+  site: 'https://www.google.es'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: JulianCast Blog
+    template: '%s — Blog'
+  description: "\U0001F680 — Blog code for everyone."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: JulianCast Blog
     images:
       - url: '~/assets/images/default.png'
         width: 1200

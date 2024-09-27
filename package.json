@@ -1,7 +1,7 @@
 {
-  "name": "@onwidget/astrowind",
-  "version": "1.0.0-beta.46",
-  "description": "AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.",
+  "name": "juliancastblog",
+  "version": "1.0.0",
+  "description": "JulianCast Blog: A blog about software development, web development, and other topics.",
   "type": "module",
   "private": true,
   "engines": {
